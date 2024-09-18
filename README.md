@@ -1,5 +1,10 @@
 # Monero Mining Script
 
+2024年9月18日
+
+直接运行script.sh即可，也可以修改里面的钱包地址，来将矿池收益转给指定的钱包地址。
+需要安装的挖矿xmrig软件，已经内置在文件夹中，全部下载后，运行脚本就会自动找到指定的软件了。
+
 This repository contains a bash script for setting up Monero mining using the `xmrig` miner. Test on ARM (Pi4) systems and AMD systems.
 
 Create monero wallet >> https://www.getmonero.org/downloads/ <br>
@@ -67,3 +72,6 @@ If you find any issues or have suggestions for improvement, please feel free to 
 	<img src="https://github.com/SathiraSriSathsara/SathiraSriSathsara/blob/main/icon.png" width="40">
 	<h4>Sathira Sri Sathsara @ 2023</h4>
 </div>	
+
+
+
